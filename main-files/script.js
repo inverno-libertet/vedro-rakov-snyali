@@ -1,4 +1,9 @@
 function changeGreeting(){
 	greeting = document.getElementById('greeting');
-	greeting.innerHTML = 'Greetings there,';
+	if(greeting.innerHTML != 'Greetings there,'){
+		greeting.innerHTML = 'Greetings there,';
+	}
+	else{
+		greeting.innerHTML = 'Hello there,';
+	}
 }
