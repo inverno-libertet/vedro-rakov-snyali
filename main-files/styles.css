@@ -3,7 +3,8 @@ body{
 	font-family: "Didot";
 }
 #greeting{
-	border: 1px solid green;
+	border-left: 8px solid green;
+	background-color: lightgreen;
 	display: inline-block;
 	padding: 5px;
 }
