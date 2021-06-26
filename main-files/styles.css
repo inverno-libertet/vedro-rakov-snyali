@@ -13,5 +13,10 @@ button{
 }
 .centered{
 	text-align: center;
-	
+
 }
+.textbox{
+	border: 5px solid green;
+	background: #fc3;
+	padding:3px
+	}
