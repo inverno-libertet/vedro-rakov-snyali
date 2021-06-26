@@ -7,3 +7,4 @@ function changeGreeting(){
 		greeting.innerHTML = 'Hello there,';
 	}
 }
+//оаооаоаоа
